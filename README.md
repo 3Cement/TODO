@@ -1,6 +1,6 @@
 # TO-DO-List-Flask
 
-Simple ToDo List created with Django to practice this framework.
+Simple ToDo List created with Django to practice this framework. The working example will be available soon.
 
 ## Getting Started
 
